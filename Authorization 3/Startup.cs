@@ -12,6 +12,8 @@ using Authorization_3.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
+
+
 namespace Authorization_3
 {
     public class Startup
@@ -25,13 +27,27 @@ namespace Authorization_3
 
         public void ConfigureServices(IServiceCollection services)
         {
+            
+
             services.AddDbContext<ApplicationContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddIdentity<User, IdentityRole>()
-                .AddEntityFrameworkStores<ApplicationContext>();
+               .AddEntityFrameworkStores<ApplicationContext>();
 
             services.AddControllersWithViews();
+
+ //____________________________________________________________________________________________________________________-
+ 
+           /* services.AddIdentity<User, IdentityRole>(opts => {
+                opts.Password.RequiredLength = 5;   // минимальная длина
+                opts.Password.RequireNonAlphanumeric = false;   // требуются ли не алфавитно-цифровые символы
+                opts.Password.RequireLowercase = false; // требуются ли символы в нижнем регистре
+                opts.Password.RequireUppercase = false; // требуются ли символы в верхнем регистре
+                opts.Password.RequireDigit = false; // требуются ли цифры
+            })
+            .AddEntityFrameworkStores<ApplicationDbContext>();*/
+///__________________________________________________________________________________________________________
         }
 
         public void Configure(IApplicationBuilder app)
