@@ -5864,11 +5864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\программы\\Authorization 3\\Authorization 3\\Authorization 3.csproj",
+      "projectUniqueName": "D:\\программы\\Authorization3\\Authorization 3\\Authorization 3.csproj",
       "projectName": "Authorization 3",
-      "projectPath": "D:\\программы\\Authorization 3\\Authorization 3\\Authorization 3.csproj",
+      "projectPath": "D:\\программы\\Authorization3\\Authorization 3\\Authorization 3.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\программы\\Authorization 3\\Authorization 3\\obj\\",
+      "outputPath": "D:\\программы\\Authorization3\\Authorization 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

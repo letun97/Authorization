@@ -80,3 +80,86 @@ D:\программы\Authorization 3\Authorization 3\obj\Debug\netcoreapp3.1\Au
 D:\программы\Authorization 3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.dll
 D:\программы\Authorization 3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.pdb
 D:\программы\Authorization 3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.genruntimeconfig.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.csprojAssemblyReference.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.AssemblyInfoInputs.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.AssemblyInfo.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.csproj.CoreCompileInputs.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.MvcApplicationPartsAssemblyInfo.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.RazorAssemblyInfo.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.RazorAssemblyInfo.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\staticwebassets\Authorization 3.StaticWebAssets.Manifest.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\staticwebassets\Authorization 3.StaticWebAssets.xml
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\scopedcss\bundle\Authorization 3.styles.css
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.TagHelpers.input.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.TagHelpers.output.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.RazorCoreGenerate.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.RazorTargetAssemblyInfo.cache
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.RazorTargetAssemblyInfo.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.dll
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\appsettings.json
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.exe
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.deps.json
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.runtimeconfig.json
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.runtimeconfig.dev.json
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.Views.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Authorization 3.Views.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\программы\Authorization3\Authorization 3\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.Views.pdb
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.csproj.CopyComplete
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.genruntimeconfig.cache
