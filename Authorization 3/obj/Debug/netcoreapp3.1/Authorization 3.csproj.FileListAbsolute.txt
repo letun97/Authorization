@@ -164,3 +164,6 @@ D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Aut
 D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.csproj.CopyComplete
 D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Authorization 3.genruntimeconfig.cache
 D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Users\Create.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Users\Edit.cshtml.g.cs
+D:\программы\Authorization3\Authorization 3\obj\Debug\netcoreapp3.1\Razor\Views\Users\Index.cshtml.g.cs
